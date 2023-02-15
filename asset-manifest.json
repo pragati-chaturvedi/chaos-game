@@ -1,14 +1,14 @@
 {
-  "main.css": "/chaos-game/static/css/main.7715e170.chunk.css",
-  "main.js": "/chaos-game/static/js/main.b0b1c858.chunk.js",
-  "main.js.map": "/chaos-game/static/js/main.b0b1c858.chunk.js.map",
-  "static/js/1.7624ee30.chunk.js": "/chaos-game/static/js/1.7624ee30.chunk.js",
-  "static/js/1.7624ee30.chunk.js.map": "/chaos-game/static/js/1.7624ee30.chunk.js.map",
+  "main.css": "/chaos-game/static/css/main.bfa3743d.chunk.css",
+  "main.js": "/chaos-game/static/js/main.f1018c28.chunk.js",
+  "main.js.map": "/chaos-game/static/js/main.f1018c28.chunk.js.map",
+  "static/js/1.7b85a868.chunk.js": "/chaos-game/static/js/1.7b85a868.chunk.js",
+  "static/js/1.7b85a868.chunk.js.map": "/chaos-game/static/js/1.7b85a868.chunk.js.map",
   "runtime~main.js": "/chaos-game/static/js/runtime~main.d309870d.js",
   "runtime~main.js.map": "/chaos-game/static/js/runtime~main.d309870d.js.map",
   "static/media/Home.css": "/chaos-game/static/media/Triangle.70e9ead3.png",
-  "static/css/main.7715e170.chunk.css.map": "/chaos-game/static/css/main.7715e170.chunk.css.map",
+  "static/css/main.bfa3743d.chunk.css.map": "/chaos-game/static/css/main.bfa3743d.chunk.css.map",
   "index.html": "/chaos-game/index.html",
-  "precache-manifest.08ff1e9cfa9b9698bff8ed449c97efec.js": "/chaos-game/precache-manifest.08ff1e9cfa9b9698bff8ed449c97efec.js",
+  "precache-manifest.6c7701a81643fc8f470be209f44f9c08.js": "/chaos-game/precache-manifest.6c7701a81643fc8f470be209f44f9c08.js",
   "service-worker.js": "/chaos-game/service-worker.js"
 }

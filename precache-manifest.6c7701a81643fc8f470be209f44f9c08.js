@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "b0b1c858882b6efc292c",
-    "url": "/chaos-game/static/css/main.7715e170.chunk.css"
+    "revision": "f1018c28c4c03ded9e27",
+    "url": "/chaos-game/static/css/main.bfa3743d.chunk.css"
   },
   {
-    "revision": "b0b1c858882b6efc292c",
-    "url": "/chaos-game/static/js/main.b0b1c858.chunk.js"
+    "revision": "f1018c28c4c03ded9e27",
+    "url": "/chaos-game/static/js/main.f1018c28.chunk.js"
   },
   {
-    "revision": "7624ee30692a4b8c0362",
-    "url": "/chaos-game/static/js/1.7624ee30.chunk.js"
+    "revision": "7b85a868d64a58419099",
+    "url": "/chaos-game/static/js/1.7b85a868.chunk.js"
   },
   {
     "revision": "d309870d936f4187c52e",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/chaos-game/static/media/Triangle.70e9ead3.png"
   },
   {
-    "revision": "c93c00be636a1dcc738560fcfa5bdb54",
+    "revision": "e856852884454085cd1fa8b81a098821",
     "url": "/chaos-game/index.html"
   }
 ];
